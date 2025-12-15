@@ -1,6 +1,6 @@
 # verificador_senha
 
-This template should help get you started developing with Vue 3 in Vite.
+Atividade para a disciplina de Desenvolvimento Web Front-End, incluindo uma página simples de verificação de senha baseado na quantidade de caracteres digitados pelo usuário.
 
 ## Recommended IDE Setup
 
