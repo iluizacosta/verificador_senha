@@ -1,6 +1,7 @@
 # verificador_senha
 
 Atividade para a disciplina de Desenvolvimento Web Front-End, incluindo uma página simples de verificação de senha baseado na quantidade de caracteres digitados pelo usuário.
+Uso de Vue.js e Typescript.
 
 ## Recommended IDE Setup
 
